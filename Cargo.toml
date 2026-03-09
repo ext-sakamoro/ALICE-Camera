@@ -1,0 +1,10 @@
+[package]
+name = "alice-camera"
+version = "1.0.0"
+edition = "2021"
+authors = ["Moroya Sakamoto"]
+license = "MIT"
+description = "Camera capture and ISP: white balance, demosaicing, exposure control, auto-focus, lens distortion correction, histogram equalization, noise reduction, HDR merge, gamma correction"
+
+[lib]
+crate-type = ["rlib"]
