@@ -3,7 +3,8 @@ name = "alice-camera"
 version = "1.0.0"
 edition = "2021"
 authors = ["Moroya Sakamoto <sakamoro@alicelaw.net>"]
-license = "MIT OR Apache-2.0"
+license = "LicenseRef-Proprietary"
+publish = false
 description = "Camera capture and ISP: white balance, demosaicing, exposure control, auto-focus, lens distortion correction, histogram equalization, noise reduction, HDR merge, gamma correction"
 
 [lib]
